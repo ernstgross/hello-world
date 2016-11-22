@@ -1,2 +1,4 @@
 # hello-world
-just another repo to evaluate github
+Hello there,
+this is my first evaluation about creating repos using github.
+Ernst Gross
